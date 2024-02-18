@@ -1,0 +1,11 @@
+.contact_form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+.form_field {
+  display: flex;
+  flex-direction: column;
+  max-width: 350px;
+  row-gap: 8px;
+}
