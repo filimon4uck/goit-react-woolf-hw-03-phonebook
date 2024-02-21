@@ -43,7 +43,7 @@ class ContactForm extends Component {
               value={number}
             />
           </div>
-          <button type="submit">Add contact</button>
+          <button className='form_button' type="submit">Add contact</button>
         </form>
       </>
     );
